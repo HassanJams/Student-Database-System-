@@ -1,0 +1,57 @@
+[
+  {
+    "FirstMidName": "Allison Amy",
+    "LastName": "Adams",
+    "GradePtAvg": 3.95,
+    "EmailAddress": "aaadams@uw.edu",
+    "StudentType": "Student"
+  },
+  {
+    "FirstMidName": "Bob Bobo",
+    "LastName": "Bobbins",
+    "GradePtAvg": 2.17,
+    "EmailAddress": "bbbobbins@uw.edu",
+    "StudentType": "Student"
+  },
+  {
+    "FirstMidName": "Mary Marie",
+    "LastName": "Masterson",
+    "GradePtAvg": 4.0,
+    "EmailAddress": "mmmasterson@uw.edu",
+    "StudentType": "Student"
+  },
+  {
+    "FirstMidName": "John James",
+    "LastName": "Jones",
+    "GradePtAvg": 3.86,
+    "EmailAddress": "jjjones@uw.edu",
+    "StudentType": "Student"
+  },
+  {
+    "Rank": 3,
+    "DegreeMajor": "IT",
+    "StudentType": "Undergrad",
+    "FirstMidName": "Johnny John",
+    "LastName": "Johnson",
+    "GradePtAvg": 2.85,
+    "EmailAddress": "jjjohnson@uw.edu"
+  },
+  {
+    "TuitionCredit": 550.75,
+    "FacultyAdvisor": "Derek",
+    "StudentType": "Graduate",
+    "FirstMidName": "Tom Thomas",
+    "LastName": "Thompson",
+    "GradePtAvg": 3.75,
+    "EmailAddress": "ttthopmson@uw.edu"
+  },
+  {
+    "TuitionCredit": 300.0,
+    "FacultyAdvisor": "hassan",
+    "StudentType": "Graduate",
+    "FirstMidName": "dsa",
+    "LastName": "de",
+    "GradePtAvg": 323.0,
+    "EmailAddress": "tjerke"
+  }
+]
